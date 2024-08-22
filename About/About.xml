@@ -8,7 +8,13 @@
 	<supportedVersions>
 		<li>1.5</li>
 	</supportedVersions>
-	<description>Put mod Description Here
+	<description>Ever wished you could get colonists without needing, you know, colonists?
+Ever wished you could use Save our Ship 2 without haveing to worry about carrying uranium?
+Ever wished you could have Cannons and such, but not have to manually fill them?
+Ever wished for antimatter weapons?
+Ever wished for an enemy that could actually destroy you?
+
+if you said yes to any of those, here you are! This mod adds at least some of that, and all those are planned, as is more. So much more...
 
 ~~~Frequently asked questions. The bellow ones are used in almost all the mods, so they are included
 FAQ
@@ -38,10 +44,14 @@ A: Uh... sure. There might be "unintented features" that we can't guarentee to f
 		<li>chtech.core</li>
 		<li>thamuzz.sos2bioship</li>
 		<li>kentington.saveourshipck</li>
+		<li>vanillaexpanded.vchemfuele</li>
+		<li>bambaryla.vcepu</li>
 	</loadAfter>
 	<loadBefore>
 		<li>gege.exportedxenotypestoragemodfolder</li>
 		<li>smashphil.xmlpatchhelper</li>
+		<li>chtech.ges</li>
+		<li>chtech.rimworldextended.main</li>
 	</loadBefore>
 	<incompatibleWith>
 	</incompatibleWith>
