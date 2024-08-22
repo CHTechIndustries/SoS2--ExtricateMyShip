@@ -12,7 +12,7 @@
 			<drawSize>(1,1)</drawSize>
 		</graphicData>
 		<researchPrerequisites>
-			<li>ShipPilotSeat</li>
+			<li>FormgelDrive</li>
 		</researchPrerequisites>
 		<statBases>
 			<WorkToBuild>6000</WorkToBuild>
@@ -37,10 +37,7 @@
 				<holoHediff>SoSHologramMachine</holoHediff>
 			</li>
 		</comps>
-		<rotatable>false</rotatable>
-		<placeWorkers>
-			<li>SaveOurShip2.PlaceWorker_OnShipHull</li>
-		</placeWorkers>
+		<rotatable>true</rotatable>
 		<costList>
 			<Steel>150</Steel>
 			<ComponentSpacer>50</ComponentSpacer>

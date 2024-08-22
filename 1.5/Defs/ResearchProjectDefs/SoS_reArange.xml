@@ -8,20 +8,6 @@
 		</value>
 	</Operation>
 	<Operation Class="PatchOperationReplace">
-		<xpath>Defs/ResearchProjectDef[defName="ShipReactor"]</xpath>
-		<value>
-			<researchViewX>2.00</researchViewX>
-			<researchViewY>1.00</researchViewY>
-		</value>
-	</Operation>
-	<Operation Class="PatchOperationReplace">
-		<xpath>Defs/ResearchProjectDef[defName="ShipReactor"]</xpath>
-		<value>
-			<researchViewX>2.00</researchViewX>
-			<researchViewY>1.00</researchViewY>
-		</value>
-	</Operation>
-	<Operation Class="PatchOperationReplace">
 		<xpath>Defs/ResearchProjectDef[defName="ShipPilotSeat"]</xpath>
 		<value>
 			<researchViewX>1.00</researchViewX>
@@ -31,9 +17,16 @@
 	<Operation Class="PatchOperationReplace">
 		<xpath>Defs/ResearchProjectDef[defName="ShipComputerCore"]</xpath>
 		<value>
-			<researchViewX>2.00</researchViewX>
-			<researchViewY>0.50</researchViewY>
+			<researchViewX>2.50</researchViewX>
+			<researchViewY>0.00</researchViewY>
 		</value>
+	</Operation>
+		<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ResearchProjectDef[defName="ShipComputerCore"]</xpath>
+			<prerequisites>
+				<li>FormgelDrive</li>
+				<li>ShipPilotSeat</li>
+		</prerequisites>
 	</Operation>
 	<Operation Class="PatchOperationReplace">
 		<xpath>Defs/ResearchProjectDef[defName="ShipAvatarCasket"]</xpath>
@@ -45,36 +38,36 @@
 	<Operation Class="PatchOperationReplace">
 		<xpath>Defs/ResearchProjectDef[defName="ShipShuttleBay"]</xpath>
 		<value>
-			<researchViewX>5.00</researchViewX>
-			<researchViewY>0.00</researchViewY>
+  <researchViewX>2.50</researchViewX>
+  <researchViewY>0.50</researchViewY>
 		</value>
 	</Operation>
 	<Operation Class="PatchOperationReplace">
 		<xpath>Defs/ResearchProjectDef[defName="ShuttlePersonal"]</xpath>
 		<value>
-			<researchViewX>4.00</researchViewX>
-			<researchViewY>0.00</researchViewY>
+  <researchViewX>1.00</researchViewX>
+  <researchViewY>0.50</researchViewY>
 		</value>
 	</Operation>
 	<Operation Class="PatchOperationReplace">
 		<xpath>Defs/ResearchProjectDef[defName="ShuttleCargo"]</xpath>
 		<value>
-			<researchViewX>4.00</researchViewX>
-			<researchViewY>1.00</researchViewY>
+  <researchViewX>3.50</researchViewX>
+  <researchViewY>1.00</researchViewY>
 		</value>
 	</Operation>
 	<Operation Class="PatchOperationReplace">
 		<xpath>Defs/ResearchProjectDef[defName="ShuttleHeavy"]</xpath>
 		<value>
-			<researchViewX>5.00</researchViewX>
-			<researchViewY>1.00</researchViewY>
+  <researchViewX>4.50</researchViewX>
+  <researchViewY>1.00</researchViewY>
 		</value>
 	</Operation>
 	<Operation Class="PatchOperationReplace">
 		<xpath>Defs/ResearchProjectDef[defName="ShuttleDropship"]</xpath>
 		<value>
-			<researchViewX>6.00</researchViewX>
-			<researchViewY>1.00</researchViewY>
+  <researchViewX>5.50</researchViewX>
+  <researchViewY>1.00</researchViewY>
 		</value>
 	</Operation>
 </Patch>
