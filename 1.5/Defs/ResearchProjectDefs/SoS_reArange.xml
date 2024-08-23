@@ -21,13 +21,12 @@
 			<researchViewY>0.00</researchViewY>
 		</value>
 	</Operation>
-		<Operation Class="PatchOperationAdd">
-		<xpath>Defs/ResearchProjectDef[defName="ShipComputerCore"]</xpath>
-			<prerequisites>
-				<li>FormgelDrive</li>
-				<li>ShipPilotSeat</li>
-		</prerequisites>
-	</Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ResearchProjectDef[defName="ShipComputerCore"]</xpath>
+    <value>
+      <prerequisites>FormgelDrive</prerequisites>
+    </value>
+  </Operation>
 	<Operation Class="PatchOperationReplace">
 		<xpath>Defs/ResearchProjectDef[defName="ShipAvatarCasket"]</xpath>
 		<value>
