@@ -4,7 +4,7 @@
 	<author>CHTech</author>
 	<packageId>chtech.EoS</packageId> 
 	<url>https://github.com/CHTechIndustries/CHTechIndustries-Rimworld-Core/wiki</url>
-	<modVersion>0.9.0</modVersion>
+	<modVersion>1.0.0</modVersion>
 	<supportedVersions>
 		<li>1.5</li>
 	</supportedVersions>
