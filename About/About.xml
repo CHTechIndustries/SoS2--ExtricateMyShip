@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Extricate our Ship</name> 
+	<name>Extricate my Ship</name> 
 	<author>CHTech</author>
-	<packageId>chtech.EoS</packageId> 
+	<packageId>chtech.EmS</packageId> 
 	<url>https://github.com/CHTechIndustries/CHTechIndustries-Rimworld-Core/wiki</url>
 	<modVersion>1.0.0</modVersion>
 	<supportedVersions>
@@ -18,11 +18,10 @@ Ever wished to start with a super weapon?
 
 if you said yes to any of those, here you are! This mod adds at least some of that, and all those are planned, as is more. So much more...
 
-~~~Frequently asked questions. The bellow ones are used in almost all the mods, so they are included
-FAQ
-Q: CE Compatible?
-A: Uh... sure. There might be "unintented features" that we can't guarentee to fix, but you do you and all!
+Okay, now, time for a fun fact: This mods name is a play on the name of the mod it's adding onto!
+You see, Extricate has a similar meaning to Save, and it might be our ship, but you made it, so it is also your (or, from your perspective, my) ship. So, the name is made of related words for the mod it's adding to!
 
+P.S. thank you to Kentington for Save our Ship 2, and Primarch XVI for {redacted} p {redacted} use {redacted}. So, now you know the meaning of life!
 </description>
 
 	<modDependencies>
