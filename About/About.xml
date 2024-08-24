@@ -22,6 +22,8 @@ Okay, now, time for a fun fact: This mods name is a play on the name of the mod 
 You see, Extricate has a similar meaning to Save, and it might be our ship, but you made it, so it is also your (or, from your perspective, my) ship. So, the name is made of related words for the mod it's adding to!
 
 P.S. thank you to Kentington for Save our Ship 2, and Primarch XVI for {redacted} p {redacted} use {redacted}. So, now you know the meaning of life!
+And, credit where credit is due:
+	Thank you @HRG164hjo for Save our Ship Fuel Pipenet, which both inspired this mod and is the source of some of the textures
 </description>
 
 	<modDependencies>
@@ -55,5 +57,6 @@ P.S. thank you to Kentington for Save our Ship 2, and Primarch XVI for {redacted
 		<li>chtech.rimworldextended.main</li>
 	</loadBefore>
 	<incompatibleWith>
+		<li>hrg164hjo.vfefuelpipenet.sos2</li>
 	</incompatibleWith>
 </ModMetaData>
