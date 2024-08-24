@@ -24,6 +24,7 @@ You see, Extricate has a similar meaning to Save, and it might be our ship, but 
 P.S. thank you to Kentington for Save our Ship 2, and Primarch XVI for {redacted} p {redacted} use {redacted}. So, now you know the meaning of life!
 And, credit where credit is due:
 	Thank you @HRG164hjo for Save our Ship Fuel Pipenet, which both inspired this mod and is the source of some of the textures
+	Thank you @Cruel Moose for SOS2 Exotic Pipes, which aided both with textures and code
 </description>
 
 	<modDependencies>
@@ -58,5 +59,6 @@ And, credit where credit is due:
 	</loadBefore>
 	<incompatibleWith>
 		<li>hrg164hjo.vfefuelpipenet.sos2</li>
+		<li>cruelmoose.sos2ep</li>
 	</incompatibleWith>
 </ModMetaData>
