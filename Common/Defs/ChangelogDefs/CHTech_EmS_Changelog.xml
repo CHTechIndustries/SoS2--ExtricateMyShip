@@ -75,5 +75,31 @@ added {redacted}
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>
-	</TabulaRasa.UpdateDef> -->
+	</TabulaRasa.UpdateDef>
+<!-- version 1.0.1 -->
+	<TabulaRasa.UpdateDef>
+		<defName>CHTechEmS_log_20240824</defName>
+		<date>2024/08/24</date>
+		<banner />
+		<contentList>
+			<li>
+				<header>Pipes</header>
+				<text>Integrated in pipes for uranium and antimatter (exotic particles), with aid from "SOS2 Exotic Pipes" (by Cruel Moose), and
+	By aid, I mean the textures are the same (ctrl+c and ctrl+v), and the code is basicily the same.
+				</text>
+			</li>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>Steam Workshop</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3315444901</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/SoS2--ExtricateMyShip/releases/tag/v1.0.1</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+		</links>
+	</TabulaRasa.UpdateDef>
 </Defs>

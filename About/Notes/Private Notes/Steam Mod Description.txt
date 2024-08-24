@@ -16,7 +16,8 @@ where most features are right now. Planned, in progress...
 [h1]Current features[/h1]
 Some of the current features include:
 [olist]
-[*]A changelog (more coming soon)
+[*]Antimatter Pipes (Based on [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3296213712]"SOS2 Exotic Pipes"[/url])
+[*]Uranium Fuel Pipes (Based on [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3066648800]Fuel Pipenet for SOS2[/url])
 [*][strike]Formgel Drive[/strike] I hope. System keeps breaking...
 [/olist]
 
@@ -26,4 +27,7 @@ Some of the current features include:
 [*][url=https://steamcommunity.com/profiles/76561198015041836/myworkshopfiles/?appid=294100]Primarch XVI[/url] for {redacted} p {redacted} use {redacted}. And that's the meaning of life!
 [*]Kentington for Save our Ship 2
 [*]Ludeon for Rimworld
+[*][url=https://steamcommunity.com/profiles/76561198046681680/myworkshopfiles/?appid=294100]Cruel Moose[/url] for "SOS2 Exotic Pipes", and permission to integrate it into my mod.
+[*][url=https://steamcommunity.com/profiles/76561199122815759/myworkshopfiles/?appid=294100]HRG164hjo[/url] for Fuel Pipenet for SOS2.
+	-I used the textures precisly, if he asks me to i'll replace them.
 [/olist]
