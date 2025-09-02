@@ -55,11 +55,11 @@ And, credit where credit is due:
 		<li>kentington.saveourshipck</li>
 		<li>vanillaexpanded.vchemfuele</li>
 		<li>bambaryla.vcepu</li>
+		<li>chtech.rimworldextended.main</li>
 	</loadAfter>
 	<loadBefore>
 		<li>gege.exportedxenotypestoragemodfolder</li>
 		<li>smashphil.xmlpatchhelper</li>
-		<li>chtech.rimworldextended.main</li>
 	</loadBefore>
 	<incompatibleWith>
 		<li>hrg164hjo.vfefuelpipenet.sos2</li>
